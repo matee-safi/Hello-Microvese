@@ -1,8 +1,8 @@
-book Hello Microverse
+📗 Hello Microverse
 
 Hello Microvese is a webpage which says "Hello Microverse"
 
-hammer_and_wrench Built With
+🛠 Built With
 Tech Stack
 Describe the tech stack and include only the relevant sections that apply to your project.
 
