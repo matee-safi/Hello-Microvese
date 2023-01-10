@@ -103,5 +103,9 @@ dist
 # TernJS port file
 .tern-port
 
+<<<<<<< HEAD
 # .gitignore
 node_modules/
+=======
+node_modules
+>>>>>>> 08aff567d73b3e997298c8b192e26c19cba5f72c
