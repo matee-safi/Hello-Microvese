@@ -45,10 +45,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Nicolas Olaya] <a name="about-project"></a>
+# 📖 [Matee Safi] <a name="about-project"></a>
 
 
-**[Hello Microverse Project]** is a project for the day 2 of microverse program.
+**[Hello Microverse]** is a project for the day 2 of microverse program.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,7 +75,7 @@ In order to run this project you need:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Soon I'll make a logo to put it in the ReadMe file]**
+- [ ] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,9 +89,9 @@ In order to run this project you need:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Nicolas Olaya**
+👤 **Matee Safi**
 
-- GitHub: [@NicolasAndrehh](https://github.com/NicolasAndrehh)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolás-andres-olaya-gamba-3b032b248/)
+- GitHub: [@matee-safi](https://github.com/matee-safi)
+- LinkedIn: [LinkedIn]((https://www.linkedin.com/in/matee-safi-755421243/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
