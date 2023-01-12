@@ -26,8 +26,6 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Hello Microverse</b></h3>
@@ -46,16 +44,13 @@ After you're finished please remove all the comments and instructions!
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -108,10 +103,17 @@ After you're finished please remove all the comments and instructions!
 To get a local copy up and running, follow these steps.
 
 git clone https://github.com/matee-safi/Hello-Microvese
+
 npm init -y
+
 npm install --save-dev hint@7.x
+
 npx hint .
-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+
+npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x 
+
+stylelint-csstree-validator@1.x
+
 npx stylelint "**/*.{css,scss}"
 
 
@@ -196,6 +198,6 @@ I would like to thank all of you for your support and thank Nicolas Olaya for hi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
